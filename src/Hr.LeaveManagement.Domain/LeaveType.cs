@@ -1,8 +1,9 @@
-﻿namespace Hr.LeaveManagement.Domain
+﻿using Hr.LeaveManagement.Domain.Common;
+
+namespace Hr.LeaveManagement.Domain
 {
-    public class LeaveType
-    {
-        public int Id { get; set; }
+    public class LeaveType:BaseEntity
+    {        
         public string Name { get; set; } = string.Empty;  
         public int DefaultDays { get; set; }
     }
