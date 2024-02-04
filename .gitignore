@@ -4,3 +4,6 @@
 
 /.vs
 /src/Hr.LeaveManagement.Domain/obj
+/src/Hr.LeaveManagement.Application/bin/Debug/net8.0
+/src/Hr.LeaveManagement.Application/obj
+/src/Hr.LeaveManagement.Domain/bin/Debug/net8.0
