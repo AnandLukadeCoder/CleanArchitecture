@@ -7,3 +7,5 @@
 /src/Hr.LeaveManagement.Application/bin/Debug/net8.0
 /src/Hr.LeaveManagement.Application/obj
 /src/Hr.LeaveManagement.Domain/bin/Debug/net8.0
+/src/Hr.LeaveManagement.Persistence/bin/Debug/net8.0
+/src/Hr.LeaveManagement.Persistence/obj
